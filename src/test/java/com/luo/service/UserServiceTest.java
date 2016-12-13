@@ -1,10 +1,11 @@
-package com.luo.service;
+/*package com.luo.service;
 
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.luo.baseTest.SpringTestCase;
-import com.luo.domain.User;
+import com.wsx.model.User;
+import com.wsx.service.UserService;
 
 public class UserServiceTest extends SpringTestCase {
 	
@@ -17,3 +18,4 @@ public class UserServiceTest extends SpringTestCase {
         System.out.println(user.getUserName() + ":" + user.getUserPassword());
     }  
 }
+*/
